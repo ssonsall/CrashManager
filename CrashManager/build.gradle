@@ -13,9 +13,9 @@ buildscript {
 
 publish {
     userOrg = 'ssonsall'
-    groupId = 'ssonsall'
+    groupId = 'dev.ssonsall'
     artifactId = 'CrashManager'
-    publishVersion = '1.0.1'
+    publishVersion = '1.0.2'
     desc = 'Notification Exception By Email'
     issueTracker = "https://github.com/topssonsall/CrashManager/issues"
     website = 'https://github.com/topssonsall/CrashManager.git'
