@@ -15,7 +15,7 @@ publish {
     userOrg = 'ssonsall'
     groupId = 'ssonsall'
     artifactId = 'CrashManager'
-    publishVersion = '1.0.0'
+    publishVersion = '1.0.1'
     desc = 'Notification Exception By Email'
     issueTracker = "https://github.com/topssonsall/CrashManager/issues"
     website = 'https://github.com/topssonsall/CrashManager.git'
@@ -45,6 +45,10 @@ android {
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    lintOptions {
+        abortOnError false
     }
 }
 
