@@ -1,0 +1,3 @@
+include ':CrashManager'
+include ':app'
+rootProject.name = "libs"
