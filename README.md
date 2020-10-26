@@ -13,7 +13,7 @@ https://github.com/topssonsall/CrashManagerSample.git
 1. The account to send the email is Gmail (any receiving account)
 
 ## Installation
-```implementeation```
+```implementation 'dev.ssonsall:CrashManager:1.0.2'```
 
 ## How to use
 [Necessary]<br/>In the first code of the first screen (Activity or Fragment etc.) after the app is launched, create the following.
